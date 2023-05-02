@@ -1,0 +1,40 @@
+body{
+    width: 1000px;
+    margin: auto;
+    background-image: url(background.jpg);
+    background-size: cover;
+    padding: 10%;
+}
+.immagine{
+    width: 25%;
+}
+header{
+    text-align: center;
+    color: chartreuse
+}
+nav{
+    border: 1px solid chartreuse;
+    background-color: chartreuse;
+    width: 1000px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+main{
+    color: white;
+}
+.barra1{
+    border: 15px solid orange;
+    border-radius: 5px;
+    width: 20%;
+}
+.barra2{
+    border: 15px solid green;
+    border-radius: 5px;
+    width: 40%;
+}
+.barra3{
+    border: 15px solid red;
+    border-radius: 5px;
+    width: 10%;
+}
